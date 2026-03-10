@@ -9,7 +9,7 @@
 
 
 ### About me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Grad Student [@ Campo Real University Center](https://guarapuava.camporeal.edu.br/cursos/engenharia-de-software/)** majoring in Software Engineering. I'm a **Tech Enthusiast** passionate about learning and working with new tech. I love transcribe my ideas into code.<br/><br/>
+I'm a **Grad Student [@ Campo Real University Center](https://guarapuava.camporeal.edu.br/)** majoring in Software Engineering. I'm a **Tech Enthusiast** passionate about learning and working with new tech. I love transcribe my ideas into code.<br/><br/>
 
 
 ## Summary <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
