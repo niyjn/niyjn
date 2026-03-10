@@ -1,7 +1,7 @@
 <h1> Howdy, im niyjn. </h1>
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/niyjn)](https://github.com/niyjn)) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/niyjn)](https://github.com/niyjn)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-schafranski-15434a350/)](https://www.linkedin.com/in/gabriel-schafranski-15434a350/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabschhf@proton.me)](mailto:gabschhf@proton.me)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/734963933068132362)](https://discord.com/users/734963933068132362)
