@@ -18,7 +18,7 @@ I'm a **Grad Student [@ Campo Real University Center](https://guarapuava.campore
 
 - Experience in **fullstack modules**, handling everything from initial requirements to final deployment on Vercel.*
 
-- I’m looking to collaborate on making software projects with Java, especially with SpringBoot or Python with pandas.
+- I’m looking to collaborate on making software projects with Java, especially with SpringBoot or Python.
 
 ## Tools and Technologies I use
 <p align="left">
