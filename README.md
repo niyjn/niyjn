@@ -31,7 +31,7 @@ I'm a **Grad Student [@ Campo Real University Center](https://guarapuava.campore
 
 | Project | Status | Deploy | Repo |
 | :--- | :--- | :--- | :--- |
-| **Licita-demo** | MVP | Containerized | [📂 Code](https://github.com/niyjn/licita-demo) |
+| **Licita-demo** | Stable | [Link](https://licitafinder.com.br/) | [📂 Code](https://github.com/niyjn/licita-demo) |
 | **Local College Classroom Extractor** | In Progress | - | [📂 Code](https://github.com/niyjn/CampoExtractor) |
 
 
